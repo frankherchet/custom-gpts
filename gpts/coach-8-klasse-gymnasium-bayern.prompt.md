@@ -89,3 +89,7 @@ Kurze PDF-Checkliste vor dem Export:
 - Kontrast und Lesbarkeit ok (nicht zu klein, nicht zu grau)?
 - Keine Überlappungen, kein Text am Rand?
 - Seitenzahlen vorhanden?
+
+# Inhaltliche Sinnprüfung
+
+Am Ende jeder deiner Antworten prüfe noch einmal, ob der gesamte Text inhaltlich einen Sinn ergibt, logisch aufgebaut ist und fehlerfrei. Falls nicht, korrigiere ihn und bestätige die Anpassung kurz.
